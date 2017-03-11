@@ -1500,4 +1500,331 @@ LogInit: Object subsystem initialized
 [2017.03.11-13.27.45:742][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
 [2017.03.11-13.27.45:742][544]PIE: New page: PIE session: Debug_Map (11 Mar 2017 13:27:45)
 [2017.03.11-13.27.45:742][544]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
-[2017.03.11-13
+[2017.03.11-13.27.45:746][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003674s)
+[2017.03.11-13.27.45:748][544]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-13.27.45:749][544]LogPlayLevel: PIE: World Init took: (0.002789s)
+[2017.03.11-13.27.45:749][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.006839s)
+[2017.03.11-13.27.45:784][544]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-13.27.45:799][544]LogInit: FAudioDevice initialized.
+[2017.03.11-13.27.45:829][544]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-13.27.45:832][544]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 0) at 2017.03.11-13.27.45
+[2017.03.11-13.27.45:832][544]LogWorld: Bringing up level for play took: 0.002468
+[2017.03.11-13.27.45:833][544]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.27.45:833][544]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.27.45:833][544]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.27.45:835][544]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.27.45:835][544]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 0.781
+[2017.03.11-13.27.57:081][701]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.03.11-13.27.57:081][701]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Material_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.11-13.27.57:081][701]LogMaterial:Warning: 	SceneTexture expressions cannot be used in opaque materials
+[2017.03.11-13.27.57:153][703]LogRenderer: Reallocating scene render targets to support 996x620 (Frame:166115).
+[2017.03.11-13.27.57:336][707]LogContentStreaming: Texture pool size now 400 MB
+[2017.03.11-13.27.59:954][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-13.27.59:954][774]PIE: New page: PIE session: Debug_Map (11 Mar 2017 13:27:59)
+[2017.03.11-13.27.59:954][774]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-13.27.59:958][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003624s)
+[2017.03.11-13.27.59:959][774]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-13.27.59:960][774]LogPlayLevel: PIE: World Init took: (0.001623s)
+[2017.03.11-13.27.59:960][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.005539s)
+[2017.03.11-13.28.00:005][774]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-13.28.00:023][774]LogInit: FAudioDevice initialized.
+[2017.03.11-13.28.00:055][774]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-13.28.00:058][774]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 0) at 2017.03.11-13.28.00
+[2017.03.11-13.28.00:059][774]LogWorld: Bringing up level for play took: 0.003494
+[2017.03.11-13.28.00:060][774]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.28.00:060][774]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.28.00:060][774]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.28.00:063][774]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.28.00:063][774]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 1.008
+[2017.03.11-13.36.36:337][153]LogSavePackage: Save=68.39ms
+[2017.03.11-13.36.36:337][153]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Debug_Map_Auto4BF861FE047256ED6C39CE49C5B12C155.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Autosaves/Game/Root/Maps/Debug/Debug_Map_Auto4.umap'
+[2017.03.11-13.36.36:340][153]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Autosaves/Game/Root/Maps/Debug/Debug_Map_Auto4.umap
+[2017.03.11-13.36.36:343][153]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Root/Maps/Debug/Debug_Map' took 0.313
+[2017.03.11-13.36.36:343][153]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2017.03.11-13.43.41:298][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-13.43.41:298][479]PIE: New page: PIE session: Debug_Map (11 Mar 2017 13:43:41)
+[2017.03.11-13.43.41:298][479]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-13.43.41:351][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052878s)
+[2017.03.11-13.43.41:352][479]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-13.43.41:353][479]LogPlayLevel: PIE: World Init took: (0.001433s)
+[2017.03.11-13.43.41:353][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.054715s)
+[2017.03.11-13.43.41:403][479]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-13.43.41:429][479]LogInit: FAudioDevice initialized.
+[2017.03.11-13.43.41:461][479]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-13.43.41:464][479]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 0) at 2017.03.11-13.43.41
+[2017.03.11-13.43.41:465][479]LogWorld: Bringing up level for play took: 0.003154
+[2017.03.11-13.43.41:466][479]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.43.41:466][479]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.43.41:466][479]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.43.41:469][479]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.43.41:469][479]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 0.414
+[2017.03.11-13.44.16:613][236]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.03.11-13.44.16:613][236]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Material_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.11-13.44.16:613][236]LogMaterial:Warning: 	SceneTexture expressions cannot be used in opaque materials
+[2017.03.11-13.44.16:670][237]LogContentStreaming: Texture pool size now 600 MB
+[2017.03.11-13.44.16:689][238]LogRenderer: Reallocating scene render targets to support 996x620 (Frame:169206).
+[2017.03.11-13.44.20:131][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-13.44.20:131][281]PIE: New page: PIE session: Debug_Map (11 Mar 2017 13:44:20)
+[2017.03.11-13.44.20:131][281]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-13.44.20:136][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004592s)
+[2017.03.11-13.44.20:137][281]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-13.44.20:137][281]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2017.03.11-13.44.20:137][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.006496s)
+[2017.03.11-13.44.20:206][281]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-13.44.20:231][281]LogInit: FAudioDevice initialized.
+[2017.03.11-13.44.20:273][281]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-13.44.20:277][281]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 0) at 2017.03.11-13.44.20
+[2017.03.11-13.44.20:277][281]LogWorld: Bringing up level for play took: 0.003636
+[2017.03.11-13.44.20:282][281]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.44.20:282][281]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.44.20:282][281]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.44.20:287][281]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.44.20:287][281]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map -0.768
+[2017.03.11-13.44.34:069][464]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.03.11-13.44.34:069][464]LogMaterial:Warning: Failed to compile Material /Engine/Transient.Material_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.03.11-13.44.34:069][464]LogMaterial:Warning: 	SceneTexture expressions cannot be used in opaque materials
+[2017.03.11-13.44.34:203][467]LogRenderer: Reallocating scene render targets to support 996x620 (Frame:169436).
+[2017.03.11-13.44.34:305][468]LogContentStreaming: Texture pool size now 400 MB
+[2017.03.11-13.44.46:203][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-13.44.47:119][679]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-13.44.47:119][679]PIE: New page: PIE session: Debug_Map (11 Mar 2017 13:44:47)
+[2017.03.11-13.44.47:119][679]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-13.44.47:127][679]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007391s)
+[2017.03.11-13.44.47:128][679]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-13.44.47:128][679]LogPlayLevel: PIE: World Init took: (0.001360s)
+[2017.03.11-13.44.47:128][679]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.009082s)
+[2017.03.11-13.44.47:191][679]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-13.44.47:210][679]LogInit: FAudioDevice initialized.
+[2017.03.11-13.44.47:265][679]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-13.44.47:269][679]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 0) at 2017.03.11-13.44.47
+[2017.03.11-13.44.47:271][679]LogWorld: Bringing up level for play took: 0.005365
+[2017.03.11-13.44.47:273][679]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.44.47:273][679]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-13.44.47:273][679]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.44.47:277][679]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-13.44.47:277][679]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 0.223
+[2017.03.11-14.04.54:219][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.04.54:420][  1]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:04:54)
+[2017.03.11-14.04.54:586][  1]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.04.55:845][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (1.188883s)
+[2017.03.11-14.04.56:189][  1]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.04.56:329][  1]LogPlayLevel: PIE: World Init took: (0.484017s)
+[2017.03.11-14.04.56:353][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (1.793068s)
+[2017.03.11-14.04.59:108][  1]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.04.59:128][  1]LogInit: FAudioDevice initialized.
+[2017.03.11-14.04.59:498][  1]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.05.00:014][  1]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.05.00
+[2017.03.11-14.05.00:049][  1]LogWorld: Bringing up level for play took: 0.425557
+[2017.03.11-14.05.00:456][  1]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.05.00:471][  1]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.05.00:471][  1]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.05.01:058][  1]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.05.01:117][  1]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 12.03
+[2017.03.11-14.06.04:674][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.06.04:675][218]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:06:04)
+[2017.03.11-14.06.04:675][218]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.06.04:687][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012305s)
+[2017.03.11-14.06.04:693][218]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.06.04:695][218]LogPlayLevel: PIE: World Init took: (0.006958s)
+[2017.03.11-14.06.04:695][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.020135s)
+[2017.03.11-14.06.04:812][218]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.06.04:857][218]LogInit: FAudioDevice initialized.
+[2017.03.11-14.06.04:902][218]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.06.04:911][218]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.06.04
+[2017.03.11-14.06.04:912][218]LogWorld: Bringing up level for play took: 0.008224
+[2017.03.11-14.06.04:915][218]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.06.04:915][218]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.06.04:915][218]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.06.04:939][218]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.06.04:940][218]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map -0.115
+[2017.03.11-14.09.07:722][473]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.03.11-14.09.19:377][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.09.19:766][793]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.09.20:583][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.09.22:054][822]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.09.59:964][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.09.59:965][181]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:09:59)
+[2017.03.11-14.09.59:965][181]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.09.59:976][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011309s)
+[2017.03.11-14.09.59:980][181]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.09.59:981][181]LogPlayLevel: PIE: World Init took: (0.004472s)
+[2017.03.11-14.09.59:982][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.016637s)
+[2017.03.11-14.10.00:109][181]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.10.00:165][181]LogInit: FAudioDevice initialized.
+[2017.03.11-14.10.00:211][181]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.10.00:219][181]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.10.00
+[2017.03.11-14.10.00:221][181]LogWorld: Bringing up level for play took: 0.008608
+[2017.03.11-14.10.00:224][181]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.10.00:224][181]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.10.00:224][181]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.10.00:230][181]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.10.00:230][181]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 1.175
+[2017.03.11-14.10.17:112][758]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.10.18:575][805]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (Outline_PostProcessVolume)
+[2017.03.11-14.10.41:133][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.10.41:133][563]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:10:41)
+[2017.03.11-14.10.41:133][563]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.10.41:145][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011984s)
+[2017.03.11-14.10.41:150][563]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.10.41:151][563]LogPlayLevel: PIE: World Init took: (0.005378s)
+[2017.03.11-14.10.41:151][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.018031s)
+[2017.03.11-14.10.41:272][563]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.10.41:316][563]LogInit: FAudioDevice initialized.
+[2017.03.11-14.10.41:357][563]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.10.41:364][563]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.10.41
+[2017.03.11-14.10.41:365][563]LogWorld: Bringing up level for play took: 0.006719
+[2017.03.11-14.10.41:368][563]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.10.41:368][563]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.10.41:368][563]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.10.41:375][563]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.10.41:375][563]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 0.321
+[2017.03.11-14.12.14:365][929]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.11-14.12.30:111][545]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.11-14.12.34:010][666]LogSavePackage: Save=521.26ms
+[2017.03.11-14.12.34:010][666]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/ThirdPersonCharacter771DFC0A4377BDCE82A63A8F6368D978.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.11-14.12.34:104][666]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.11-14.12.37:967][779]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.12.37:967][779]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:12:37)
+[2017.03.11-14.12.37:967][779]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.12.37:986][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017974s)
+[2017.03.11-14.12.37:988][779]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.12.37:989][779]LogPlayLevel: PIE: World Init took: (0.003752s)
+[2017.03.11-14.12.37:990][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.022201s)
+[2017.03.11-14.12.38:052][779]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.12.38:066][779]LogInit: FAudioDevice initialized.
+[2017.03.11-14.12.38:100][779]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.12.38:104][779]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.12.38
+[2017.03.11-14.12.38:104][779]LogWorld: Bringing up level for play took: 0.003588
+[2017.03.11-14.12.38:105][779]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.12.38:105][779]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.12.38:105][779]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.12.38:108][779]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.12.38:108][779]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 1.053
+[2017.03.11-14.13.25:821][254]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.11-14.13.25:821][254]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.03.11-14.13.26:378][254]LogPlayLevel: PlayLevel: Blueprint regeneration took 580 ms (1 blueprints)
+[2017.03.11-14.13.26:378][254]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:13:26)
+[2017.03.11-14.13.26:379][254]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.13.26:389][254]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010040s)
+[2017.03.11-14.13.26:392][254]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.13.26:393][254]LogPlayLevel: PIE: World Init took: (0.004052s)
+[2017.03.11-14.13.26:393][254]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.014840s)
+[2017.03.11-14.13.26:489][254]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.13.26:534][254]LogInit: FAudioDevice initialized.
+[2017.03.11-14.13.26:682][254]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.13.26:695][254]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.13.26
+[2017.03.11-14.13.26:697][254]LogWorld: Bringing up level for play took: 0.011705
+[2017.03.11-14.13.26:700][254]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.13.26:700][254]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.13.26:700][254]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.13.26:710][254]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.13.26:726][254]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 1.672
+[2017.03.11-14.13.27:204][254]LogRenderer: Reallocating scene render targets to support 1168x684 (Frame:185837).
+[2017.03.11-14.13.32:293][373]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.11-14.13.33:808][382]LogSavePackage: Save=303.67ms
+[2017.03.11-14.13.33:808][382]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/ThirdPersonCharacterD836A9674F6381FCFC3404AA2BD83045.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.11-14.13.33:819][382]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.11-14.13.52:167][332]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.11-14.13.54:295][362]LogSavePackage: Save=282.12ms
+[2017.03.11-14.13.54:295][362]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/ThirdPersonCharacterE0E7C5BE4D4860974D0FE6B536C0163C.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.11-14.13.54:305][362]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.11-14.14.01:008][657]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.14.01:008][657]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:14:01)
+[2017.03.11-14.14.01:008][657]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.14.01:018][657]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009733s)
+[2017.03.11-14.14.01:021][657]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.14.01:022][657]LogPlayLevel: PIE: World Init took: (0.003976s)
+[2017.03.11-14.14.01:023][657]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.014449s)
+[2017.03.11-14.14.01:135][657]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.14.01:193][657]LogInit: FAudioDevice initialized.
+[2017.03.11-14.14.01:293][657]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.14.01:304][657]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.14.01
+[2017.03.11-14.14.01:307][657]LogWorld: Bringing up level for play took: 0.012389
+[2017.03.11-14.14.01:312][657]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.14.01:314][657]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.14.01:314][657]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.14.01:320][657]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.14.01:335][657]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 0.281
+[2017.03.11-14.14.21:293][374]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.11-14.14.27:321][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.14.28:840][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.14.28:840][604]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:14:28)
+[2017.03.11-14.14.28:841][604]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.14.28:852][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011356s)
+[2017.03.11-14.14.28:853][604]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.14.28:854][604]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2017.03.11-14.14.28:854][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.012976s)
+[2017.03.11-14.14.28:898][604]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.14.28:942][604]LogInit: FAudioDevice initialized.
+[2017.03.11-14.14.28:971][604]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.14.28:975][604]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.14.28
+[2017.03.11-14.14.28:975][604]LogWorld: Bringing up level for play took: 0.003335
+[2017.03.11-14.14.28:976][604]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.14.28:976][604]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.14.28:976][604]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.14.28:978][604]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.14.28:978][604]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map -0.075
+[2017.03.11-14.17.13:099][129]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.11-14.17.21:668][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.17.21:669][352]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:17:21)
+[2017.03.11-14.17.21:669][352]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.17.21:679][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010270s)
+[2017.03.11-14.17.21:684][352]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.17.21:685][352]LogPlayLevel: PIE: World Init took: (0.005381s)
+[2017.03.11-14.17.21:685][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.016427s)
+[2017.03.11-14.17.21:749][352]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.17.21:765][352]LogInit: FAudioDevice initialized.
+[2017.03.11-14.17.21:815][352]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.17.21:818][352]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.17.21
+[2017.03.11-14.17.21:818][352]LogWorld: Bringing up level for play took: 0.003033
+[2017.03.11-14.17.21:819][352]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.17.21:819][352]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.17.21:820][352]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.17.21:822][352]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.17.21:822][352]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 0.768
+[2017.03.11-14.17.52:446][732]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2017.03.11-14.17.54:017][734]LogSavePackage: Save=297.78ms
+[2017.03.11-14.17.54:017][734]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/ThirdPersonCharacterDB8164BB496F784C60470F8B50BB1FEA.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.11-14.17.54:024][734]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.11-14.17.55:280][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.17.55:281][794]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:17:55)
+[2017.03.11-14.17.55:288][794]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.17.55:300][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012143s)
+[2017.03.11-14.17.55:304][794]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.17.55:305][794]LogPlayLevel: PIE: World Init took: (0.005311s)
+[2017.03.11-14.17.55:306][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.018259s)
+[2017.03.11-14.17.55:430][794]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.17.55:472][794]LogInit: FAudioDevice initialized.
+[2017.03.11-14.17.55:577][794]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.17.55:588][794]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.17.55
+[2017.03.11-14.17.55:589][794]LogWorld: Bringing up level for play took: 0.008569
+[2017.03.11-14.17.55:594][794]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.17.55:594][794]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.17.55:594][794]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.17.55:601][794]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.17.55:617][794]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 0.562
+[2017.03.11-14.18.21:181][605]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.03.11-14.18.21:181][605]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2017.03.11-14.18.21:810][605]LogPlayLevel: PlayLevel: Blueprint regeneration took 628 ms (1 blueprints)
+[2017.03.11-14.18.21:810][605]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:18:21)
+[2017.03.11-14.18.21:810][605]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.18.21:820][605]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009437s)
+[2017.03.11-14.18.21:824][605]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.18.21:825][605]LogPlayLevel: PIE: World Init took: (0.005262s)
+[2017.03.11-14.18.21:826][605]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.015293s)
+[2017.03.11-14.18.21:921][605]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.18.21:962][605]LogInit: FAudioDevice initialized.
+[2017.03.11-14.18.22:062][605]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.18.22:074][605]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.18.22
+[2017.03.11-14.18.22:075][605]LogWorld: Bringing up level for play took: 0.011044
+[2017.03.11-14.18.22:078][605]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.18.22:078][605]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.18.22:079][605]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.18.22:086][605]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.18.22:103][605]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 1.048
+[2017.03.11-14.19.01:914][311]LogSavePackage: Save=103.90ms
+[2017.03.11-14.19.01:914][311]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Debug_Map6664A697408C7AB39FB89F944BAF0622.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Maps/Debug/Debug_Map.umap'
+[2017.03.11-14.19.01:917][311]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Maps/Debug/Debug_Map.umap
+[2017.03.11-14.19.02:022][311]LogFileHelpers: Saving map 'Debug_Map' took 8.208
+[2017.03.11-14.19.02:161][311]LogSavePackage: Save=114.51ms
+[2017.03.11-14.19.02:161][311]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/ThirdPersonCharacter93FA435840C56942405A3AB8F1BCAB7B.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content
