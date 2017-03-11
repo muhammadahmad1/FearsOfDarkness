@@ -1827,4 +1827,66 @@ LogInit: Object subsystem initialized
 [2017.03.11-14.19.01:917][311]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Maps/Debug/Debug_Map.umap
 [2017.03.11-14.19.02:022][311]LogFileHelpers: Saving map 'Debug_Map' took 8.208
 [2017.03.11-14.19.02:161][311]LogSavePackage: Save=114.51ms
-[2017.03.11-14.19.02:161][311]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/ThirdPersonCharacter93FA435840C56942405A3AB8F1BCAB7B.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content
+[2017.03.11-14.19.02:161][311]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/ThirdPersonCharacter93FA435840C56942405A3AB8F1BCAB7B.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.03.11-14.19.02:164][311]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.03.11-14.19.48:460][281]BlueprintLog: New page: Compile Item_Sphere
+[2017.03.11-14.19.49:728][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.19.49:728][300]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:19:49)
+[2017.03.11-14.19.49:907][300]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.19.49:918][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011015s)
+[2017.03.11-14.19.49:923][300]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.19.49:924][300]LogPlayLevel: PIE: World Init took: (0.006166s)
+[2017.03.11-14.19.49:925][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.018036s)
+[2017.03.11-14.19.50:024][300]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.19.50:069][300]LogInit: FAudioDevice initialized.
+[2017.03.11-14.19.50:158][300]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.19.50:171][300]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 60) at 2017.03.11-14.19.50
+[2017.03.11-14.19.50:172][300]LogWorld: Bringing up level for play took: 0.012429
+[2017.03.11-14.19.50:177][300]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.19.50:177][300]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.19.50:177][300]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.19.50:186][300]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.19.50:193][300]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map 1.139
+[2017.03.11-14.19.58:647][497]LogSavePackage: Save=77.72ms
+[2017.03.11-14.19.58:647][497]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Debug_MapE66BECFA4195C800B439668F49F977ED.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Maps/Debug/Debug_Map.umap'
+[2017.03.11-14.19.58:666][497]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Maps/Debug/Debug_Map.umap
+[2017.03.11-14.19.58:720][497]LogFileHelpers: Saving map 'Debug_Map' took 0.449
+[2017.03.11-14.19.58:726][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Root/Interactable/Item_Sphere" FILE="../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Sphere.uasset" SILENT=true
+[2017.03.11-14.19.58:769][497]LogSavePackage: Save=31.10ms
+[2017.03.11-14.19.58:769][497]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Item_Sphere1EB9502A4CEB03C30C615E8F0D3FE9A6.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Sphere.uasset'
+[2017.03.11-14.19.58:834][497]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Sphere.uasset
+[2017.03.11-14.47.20:578][953]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.47.20:578][953]PIE: New page: PIE session: Debug_Map (11 Mar 2017 14:47:20)
+[2017.03.11-14.47.20:578][953]LogPlayLevel: Creating play world package: /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map
+[2017.03.11-14.47.20:585][953]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006388s)
+[2017.03.11-14.47.20:586][953]LogAIModule: Creating AISystem for world Debug_Map
+[2017.03.11-14.47.20:586][953]LogPlayLevel: PIE: World Init took: (0.001424s)
+[2017.03.11-14.47.20:587][953]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Root/Maps/Debug/Debug_Map.Debug_Map to /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map (0.008176s)
+[2017.03.11-14.47.20:656][953]LogInit: XAudio2 using 'Speakers (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.47.20:677][953]LogInit: FAudioDevice initialized.
+[2017.03.11-14.47.20:710][953]LogWorld: Game class is 'ThirdPersonGameMode_C'
+[2017.03.11-14.47.20:713][953]LogWorld: Bringing World /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map.Debug_Map up for play (max tick rate 0) at 2017.03.11-14.47.20
+[2017.03.11-14.47.20:714][953]LogWorld: Bringing up level for play took: 0.003214
+[2017.03.11-14.47.20:715][953]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.47.20:715][953]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.47.20:715][953]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.47.20:718][953]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.47.20:718][953]PIE: Info Play in editor start time for /Game/Root/Maps/Debug/UEDPIE_0_Debug_Map -0.337
+[2017.03.11-14.51.59:002][351]BlueprintLog: New page: Compile Item_Sphere
+[2017.03.11-14.52.12:017][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Root/Interactable/Item_Sphere" FILE="../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Sphere.uasset" SILENT=true
+[2017.03.11-14.52.12:081][692]LogSavePackage: Save=57.07ms
+[2017.03.11-14.52.12:081][692]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Item_SphereF6E9F7504AC02290665A5BB739DD1554.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Sphere.uasset'
+[2017.03.11-14.52.12:084][692]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Sphere.uasset
+[2017.03.11-14.52.51:021][654]LogSavePackage: Save=26.60ms
+[2017.03.11-14.52.51:021][654]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Debug_Map_Auto5071C04F243C4046E25D7B4887D2E365C.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Autosaves/Game/Root/Maps/Debug/Debug_Map_Auto5.umap'
+[2017.03.11-14.52.51:029][654]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Autosaves/Game/Root/Maps/Debug/Debug_Map_Auto5.umap
+[2017.03.11-14.52.51:032][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Root/Maps/Debug/Debug_Map' took 0.169
+[2017.03.11-14.52.51:032][654]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.169
+[2017.03.11-15.00.09:155][188]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.11-15.00.10:202][236]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.03.11-15.01.51:046][458]BlueprintLog: New page: Compile Item_Door
+[2017.03.11-15.01.52:469][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Root/Interactable/Item_Door" FILE="../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Door.uasset" SILENT=true
+[2017.03.11-15.01.52:517][470]LogSavePackage: Save=46.16ms
+[2017.03.11-15.01.52:517][470]LogSavePackage: Moving '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Saved/Item_DoorF6758FDE40120E2AAFA1339BC211FDEB.tmp' to '../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Door.uasset'
+[2017.03.11-15.01.52:519][470]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Muhammad/Documents/GitHub/FearsOfDarkness/Content/Root/Interactable/Item_Door.uasset
+[2017.03.11-15.02.04:448][656]LogPlayLevel: PlayLevel: No blueprints ne
